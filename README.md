@@ -1,3 +1,3 @@
   # xiaoduizhang's notes
-  - [关于玄学](./blog1.md)
-  - [No.2](./blog2.md)
+  - [No.001 关于玄学](./note001.md)
+  - [No.002](./note002.md)
