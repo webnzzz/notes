@@ -13,4 +13,4 @@
 没办法很好的与人交流，
 等同于电脑死机。
 
-![](pic/004osego.jpg)
+![004osego](/pic/004osego.jpg)
