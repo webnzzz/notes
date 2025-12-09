@@ -18,4 +18,4 @@
 
 好的文章应该也按这个步骤来写。
 
-![](pic/008kaimen.png)
+![008kaimen](/pic/008kaimen.png)
