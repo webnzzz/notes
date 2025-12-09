@@ -15,4 +15,4 @@
 
 再加上一些附会、类比，就可以说懂玄学了。
 
-![](pic/xuanxue.jpg)
+![](pic/001xuanxue.jpg)
