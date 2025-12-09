@@ -22,4 +22,4 @@
 
 冲动≠关系 
 
-![](pic/009liuxing.png)
+![009liuxing](/pic/009liuxing.png)
