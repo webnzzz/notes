@@ -24,7 +24,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
-  - README.md
+#   - README.md
 
 # 默认值（Defaults）
 defaults:
