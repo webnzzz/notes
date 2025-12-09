@@ -1,7 +1,6 @@
 include:
   - README.md  # 明确包含 README.md
-# remote_theme: vaibhavvikas/jekyll-theme-minimalistic
-
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 title: zZ notes
 description: Minimalistic is a theme powered by Jekyll.
 logo: ./logo.jpg
