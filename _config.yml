@@ -1,2 +1,5 @@
+title: 我的博客
+description: 简单静态站点
 include:
-  - README.md
+  - README.md  # 明确包含 README.md
+theme: minima
