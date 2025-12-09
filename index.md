@@ -1,6 +1,6 @@
 ---
 layout: default  # 使用默认布局，或你的主题布局
-title: 首页
+title: .zZ 的笔记
 ---
-# 你的 README 内容从这里开始
+# .zZ 的笔记
 {% include_relative README.md %}
