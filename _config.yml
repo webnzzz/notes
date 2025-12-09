@@ -3,7 +3,7 @@ title: .zZ的笔记  # 站点标题，显示在浏览器标签和导航栏
 description: 这是一个用 Jekyll 构建的简单静态博客。  # 站点描述，用于 SEO 和元数据
 author: zZ  # 作者名，显示在页脚或帖子中
 email: your.email@example.com  # 联系邮箱（可选）
-url: "http://fre3d.eu.org"  # 站点完整 URL
+url: "https://webnzzz.github.io"  # 站点完整 URL
 baseurl: ""  # 如果站点在子路径下，如 "/blog"，否则留空
 
 # 构建设置（Build Settings）
