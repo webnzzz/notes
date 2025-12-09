@@ -3,7 +3,7 @@ include:
 # The Site Configuration
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
-title: Minimalistic
+title: .zZ's notes
 email: ggwebn@gmail.com
 description: personal feelings
 favicon: false
