@@ -45,7 +45,7 @@
 
 一条法则
 
-![002tong](/pic/002tong.jpg)
+![](pic/002tong.jpg)
 
 
 
