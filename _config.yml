@@ -1,5 +1,5 @@
 # 站点基本设置（Site Settings）
-title: 我的个人博客  # 站点标题，显示在浏览器标签和导航栏
+title: .zZ的笔记  # 站点标题，显示在浏览器标签和导航栏
 description: 这是一个用 Jekyll 构建的简单静态博客。  # 站点描述，用于 SEO 和元数据
 author: zZ  # 作者名，显示在页脚或帖子中
 email: your.email@example.com  # 联系邮箱（可选）
