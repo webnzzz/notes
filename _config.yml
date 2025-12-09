@@ -1,5 +1,25 @@
 include:
   - README.md  # 明确包含 README.md
 # The Site Configuration
-theme: minima
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
+title: Minimalistic
+email: ggwebn@gmail.com
+description: personal feelings
+favicon: false
+color-scheme: auto
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+
+
+navigation:
+  - name: Readme
+    link: ./index.html
+    sublist:
+      - name: Image
+        link: ./index.html#small-image
+  - name: Another Page
+    link: ./another-page.html
