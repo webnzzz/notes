@@ -1,3 +1,39 @@
 include:
   - README.md  # 明确包含 README.md
-remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+# remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+
+title: zZ notes
+description: Minimalistic is a theme powered by Jekyll.
+logo: ./logo.jpg
+email: vbhvvikas@gmail.com
+favicon: false
+color-scheme: auto
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+
+navigation:
+  - name: Home Page
+    link: ./
+    sublist:
+      - name: Usage
+        link: ./#usage
+      - name: Customizing
+        link: ./#customizing
+      - name: Customizing Sidebar
+        link: ./#customizing-sidebar
+      - name: Navigation
+        link: ./#navigation
+      - name: Example
+        link: ./#example
+      - name: Stylesheet
+        link: ./#stylesheet
+      - name: Credits
+        link: ./#credits
+  - name: Sample
+    link: ./another-page.html
+    sublist:
+      - name: Image
+        link: ./another-page.html#small-image
