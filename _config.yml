@@ -1,12 +1,19 @@
 include:
   - README.md  # 明确包含 README.md
 # The Site Configuration
-remote_theme: daattali/beautiful-jekyll
-title: notes
-author: zZ
-navbar-links:
-  关于我: "about"
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
-social-network-links:
-  email: "ggwebn@gmail.com"
-rss: true  # 启用 RSS
+title: zZ notes
+description: Personal Feelings
+email: ggwebn@gmail.com
+favicon: true
+color-scheme: auto
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  
+navigation:
+  - name: Home Page
+    link: ./
