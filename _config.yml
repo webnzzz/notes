@@ -1,7 +1,6 @@
 include:
   - README.md  # 明确包含 README.md
 # The Site Configuration
-baseurl: ""  # 如果是用户站点 (username.github.io)，留空；如果是项目站点 (username.github.io/repo)，设为 "/repo"
 remote_theme: daattali/beautiful-jekyll
 title: notes
 author: zZ
